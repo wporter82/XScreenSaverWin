@@ -16,3 +16,6 @@ xscreensaver-text/Release
 debughelper/Debug
 debughelper/Release
 XScreenSaverWin/
+Backup/
+UpgradeLog.htm
+*.sdf
